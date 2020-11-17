@@ -20,7 +20,7 @@ body {
 
 .img-top {
     right: 50%;
-    bottom: 50%;
+    bottom: 43%;
     position: fixed;
     transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 0.6);
 }
@@ -31,7 +31,7 @@ body {
 
 .img-bottom {
     top: 50%;
-    left: 45%;
+    left: 50%;
     position: fixed;
     transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 0.6);
 }
